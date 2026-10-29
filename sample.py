@@ -1,7 +1,3 @@
-"""
-Ghost in the Machine - Sample Module
-"""
-
 from datetime import datetime
 
 
